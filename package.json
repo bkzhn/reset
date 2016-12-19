@@ -1,0 +1,26 @@
+{
+  "name": "reset",
+  "version": "1.0.0",
+  "description": "reset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bkzhn@github.com/bkzhn/reset.git"
+  },
+  "keywords": [
+    "reset"
+  ],
+  "author": "bkzhn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bkzhn/reset/issues"
+  },
+  "homepage": "https://github.com/bkzhn/reset#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.0.0"
+  }
+}
